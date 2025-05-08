@@ -2,6 +2,10 @@
 
 This organization hosts projects and assignments used in the tech talent accelerator program.
 
+## Helpful Links
+
+- [Tasks](https://github.com/DPI-WE/tasks)
+
 ## Repository Prefix Naming Convention
 
 - `pr-`: GitHub workflow pull request practice
