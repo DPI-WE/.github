@@ -11,3 +11,4 @@ This organization hosts projects and assignments used in the tech talent acceler
 - `ruby-`: Ruby fundamentals project
 - `sinatra-`: Sinatra project
 - `rails-`: Rails project
+- `capstone-`: Capstone project
